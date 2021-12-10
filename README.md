@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mnrohoden
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science
 - 📫 How to reach me +593 0982678600
 
 <!---
