@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnrohoden
-- 👀 I’m interested in Data Science and Data Bases
-- 🌱 I’m know python, SQL, Git.
+- 👀 I’m interested in developing
+- 🌱 I am learning JavaScript
 - 📫 How to reach me +593 0982678600
 
 <!---
